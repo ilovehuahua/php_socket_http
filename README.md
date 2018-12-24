@@ -1,0 +1,2 @@
+# php_socket_http
+php语言编写基于workman框架。socket服务和http服务二合一。socket连接和php后端框架通信中间件。可以使后端http直接使用socket进行推送。socket也可以给http推送
