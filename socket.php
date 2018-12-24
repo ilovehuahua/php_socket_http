@@ -1,7 +1,7 @@
 <?php
 
 /**
- * 通用socket，海草云。
+ * 通用socket
  * @author xun_yu
  * @version 2018.07.17
  * @update 以后可升级多进程也可升级为集群socket
