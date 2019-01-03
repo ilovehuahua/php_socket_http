@@ -16,9 +16,9 @@ php语言编写基于workman框架。基本优势
 
 查看动态日志： tail -f log/socket.log
 
-#作用
+# 作用
 socket服务和http服务二合一。
-#设计目的
+# 设计目的
 可以使后端http直接使用socket进行推送。socket也可以给http推送
-#运用指导思想
+# 运用指导思想
 socket连接和php后端框架通信中间件。不做业务只做通信
